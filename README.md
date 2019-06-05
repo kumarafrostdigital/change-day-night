@@ -3,7 +3,7 @@ Listening to day night changes
 
 
 ## install
-npm install --save npm i change-day-night
+npm install --save change-day-night
 
 ## create
 new DayNightTheme({ dayStart, dayEnd, didChangeDayNight });
